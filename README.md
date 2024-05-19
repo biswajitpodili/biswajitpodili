@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on MERN Stack
+- 🌱 I’m currently learning TypeScript
+- 💬 Ask me about DSA and MERN Stack
+- 📫 How to reach me: biswajitofficial2002@gmail.com
+
+
 <!--
 **biswajitpodili/biswajitpodili** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
