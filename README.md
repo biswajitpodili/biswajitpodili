@@ -18,8 +18,6 @@
 <a href="https://wakatime.com/@b71f4e85-b0ea-492b-9a3c-52d2977789c2"><img src="https://wakatime.com/badge/user/b71f4e85-b0ea-492b-9a3c-52d2977789c2.svg" alt="Total time coded since May 19 2024" /></a>
 </p>
 
-###
-
 ## <samp>About me</samp>
 
 <samp>
@@ -64,9 +62,9 @@
 
 ## <samp>Github stats :</samp>
 
-<p align="center">
-<a href="https://github.com/biswajitpodili"><img src="https://github-readme-streak-stats.herokuapp.com?user=biswajitpodili&theme=radical&border=7F3FBF&background=0D1117" alt="GitHub Streak of Biswajit" /></a>
-</p>
+<!-- <p align="center">
+<a href="https://github.com/biswajitpodili"><img src="https://github-readme-streak-stats.herokuapp.com/?user=biswajitpodili&theme=radical&border=7F3FBF&background=0D1117" alt="GitHub Streak of Biswajit" /></a>
+</p> -->
 
 <p align="center">
   <a href="https://github.com/biswajitpodili">
