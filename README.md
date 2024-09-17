@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on MERN Stack
+- 🔭 I’m a MERN Stack developer
 - 🌱 I’m currently learning TypeScript
 - 💬 Ask me about DSA and MERN Stack
 - 📫 How to reach me: biswajitofficial2002@gmail.com
