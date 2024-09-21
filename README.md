@@ -15,6 +15,11 @@
 ###
 
 <p align="right">
+    <a href="https://github.com/biswajitpodili"><img src="https://komarev.com/ghpvc/?username=biswajitpodili&label=Profile%20views&color=0e75b6&style=flat" alt="biswajitpodili" /> </a>
+</p>
+
+
+<p align="right">
 <a href="https://wakatime.com/@b71f4e85-b0ea-492b-9a3c-52d2977789c2"><img src="https://wakatime.com/badge/user/b71f4e85-b0ea-492b-9a3c-52d2977789c2.svg" alt="Total time coded since May 19 2024" /></a>
 </p>
 
