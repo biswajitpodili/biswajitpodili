@@ -83,8 +83,3 @@
 <a href="https://github.com/biswajitpodili"><img alt="Biswajit's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biswajitpodili&layout=donut-vertical&theme=radical&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"width="49.5%"/></a>
 </p>
 
-<p align="center">
-    <a href="https://github.com/biswajitpodili">
-    <img alt="Biswajit's wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=biswajitpodili&theme=radical&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"/></a>
-</p>
-
